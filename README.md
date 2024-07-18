@@ -1,2 +1,8 @@
-# E-com-Web-App
-Developed e-commerce web application, built with Spring Boot, delivers a seamless online shopping experience. Key features include comprehensive product management, shopping cart and checkout,nd responsive design. The backend utilizes Spring Boot, and Spring Data JPA, while the frontend is crafted with , HTML, CSS, and JavaScript
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
